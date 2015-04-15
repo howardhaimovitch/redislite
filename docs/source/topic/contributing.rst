@@ -8,6 +8,7 @@ The redislite project always needs more people to help others. As soon as you le
 * Improve the documentation.
 * Write unit tests.
 
+
 Submitting Code
 ---------------
 To submit your code for inclusion upstream, do the following to ensure your
